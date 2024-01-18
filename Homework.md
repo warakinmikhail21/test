@@ -26,6 +26,11 @@
 ```sh
 git branch
 ``````
-**Создание новой ветки** :
+**Создание новой ветки**
 ```sh
 git branch <branch_name>
+```
+**Переход к ветке**
+```sh
+git checkout <branch_name>
+```
