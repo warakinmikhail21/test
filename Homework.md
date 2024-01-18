@@ -34,3 +34,7 @@ git branch <branch_name>
 ```sh
 git checkout <branch_name>
 ```
+**Переход к ветке**
+```sh
+git branch -d <branch_name>
+```
