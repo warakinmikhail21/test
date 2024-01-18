@@ -38,3 +38,7 @@ git checkout <branch_name>
 ```sh
 git branch -d <branch_name>
 ```
+**Граф**
+```sh
+git log --graph
+```
