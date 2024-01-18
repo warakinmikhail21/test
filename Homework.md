@@ -38,7 +38,7 @@ git checkout <branch_name>
 ```sh
 git branch -d <branch_name>
 ```
-**Граф**
+**Команда для просмотра схематики графа**
 ```sh
 git log --graph
 ```
